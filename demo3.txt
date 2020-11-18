@@ -1,0 +1,11 @@
+git init
+git add .
+git commmit -m""
+git log
+git status
+git diff
+git remote add origin 远端仓库地址
+git push -u orogin master
+git checkout -b 分支名
+git checkout 分支名
+git clone 远端仓库地址
